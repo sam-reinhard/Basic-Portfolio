@@ -25,6 +25,7 @@ h1 {
     margin-bottom: 0px;
     margin-left: 181px;
     font-size: 24px;
+    font-weight: bold;
 }
 
 h2 {
@@ -32,7 +33,8 @@ h2 {
     border-bottom: 2px solid #cccccc;
     padding: 15px 0px 15px 0px;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    font-size: 20px;
+    font-size: 22px;
+    font-weight: bold;
 }
 
 h3 {
@@ -82,17 +84,20 @@ footer {
 form {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
+    margin-top: 10px;
 }
 
 input {
     width: 958px;
     line-height: 1.5;
+    margin: 10px 0px 10px 0px;
 }
 
 textarea {
     width: 958px;
     height: 140px;
     border: 1px solid #dddddd;
+    margin: 10px 0px 5px 0px;
 }
 
 .content {
@@ -121,7 +126,7 @@ textarea {
     height: 200px;
     width: 220px;
     text-align: center;
-    margin: 0px 15px 20px 0px;
+    margin: 20px 15px 20px 0px;
 }
 
 .bbox {
@@ -130,7 +135,7 @@ textarea {
     height: 200px;
     width: 220px;
     text-align: center;
-    margin: 0px 0px 20px 15px;
+    margin: 20px 0px 20px 15px;
 }
 
 .cbox {
