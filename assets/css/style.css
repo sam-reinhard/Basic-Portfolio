@@ -125,6 +125,10 @@ textarea {
     margin-top: 5px;
 }
 
+/*I feel like the below boxes could be formatted better so that they
+aren't taking up only 1/2 of the content box's width, but I'm trying to 
+match the styling of the guide as closely as possible*/
+
 .abox {
     float: left;
     background-image: url("../images/lightblur.jpg");
