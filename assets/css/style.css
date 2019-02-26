@@ -1,5 +1,4 @@
 header {
-    /*for some reason, the margins got all fucked up when i looked at the page in chrome*/
     background-color: #ffffff;
     font-family: 'Georgia', Times, Times New Roman, serif;
     border-bottom: 2px solid #cccccc;
@@ -7,7 +6,7 @@ header {
     margin: 0 auto;
     display: inline;
     padding: 10px 0px 0px 38px;
-    float: left;
+    
     position: fixed;
     top: 0;
     left: 0;
